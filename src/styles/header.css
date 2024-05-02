@@ -1,0 +1,46 @@
+#content {
+  margin-top: 100px;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+  width: 100%;
+}
+.plate1 {
+  height: 450px;
+}
+
+.content {
+  margin-right: 40px;
+  display: grid;
+  grid-template-rows: 150px 50px;
+}
+
+.storeName {
+  font-family: "Fry's Baskerville";
+  font-size: 120px;
+  color: white;
+}
+
+.slogan {
+  color: white;
+  margin: auto;
+  font-family: "Julius sans one";
+}
+
+.menuBtn {
+  height: 50px;
+  width: 170px;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+  font-family: "Julius sans one";
+  border-radius: 13px;
+  align-items: center;
+  background-color: red;
+  cursor: pointer;
+}
+
+.arrow {
+  height: 8px;
+  margin-left: 10px;
+}

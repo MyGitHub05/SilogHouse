@@ -1,0 +1,55 @@
+.bgSilog {
+  height: 600px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.menuBoard {
+  border: 3px solid rgba(255, 255, 255, 0.483);
+  position: absolute;
+  width: 550px;
+  height: 600px;
+  right: 200px;
+  top: 100px;
+  background-color: rgba(0, 0, 0, 0.526);
+  border-radius: 20px;
+  display: grid;
+  justify-content: center;
+  grid-template-rows: 75px 50px 1fr;
+
+  padding: 20px;
+}
+.prices {
+  display: grid;
+  justify-content: space-evenly;
+}
+
+.title {
+  margin: auto;
+  font-size: 70px;
+  font-family: "Fry's Baskerville";
+  text-decoration: underline;
+}
+.menuSign {
+  margin: auto;
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.product {
+  width: 350px;
+  font-size: 16px;
+  font-family: "Julius sans one";
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.product div {
+  width: 150px;
+}
+
+.product .priceDiv {
+  width: 40px;
+}
