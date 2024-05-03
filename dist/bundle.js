@@ -220,46 +220,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./src/images/bg1.jpg":
-/*!****************************!*\
-  !*** ./src/images/bg1.jpg ***!
-  \****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"e6a48fe46e7456b0b1af.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg1.jpg?");
-
-/***/ }),
-
-/***/ "./src/images/bg2.jpg":
-/*!****************************!*\
-  !*** ./src/images/bg2.jpg ***!
-  \****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"33c75770951eb3b88040.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg2.jpg?");
-
-/***/ }),
-
-/***/ "./src/images/bg3.jpg":
-/*!****************************!*\
-  !*** ./src/images/bg3.jpg ***!
-  \****************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"9443040ab3509b048f08.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg3.jpg?");
-
-/***/ }),
-
-/***/ "./src/images/bgMap.png":
-/*!******************************!*\
-  !*** ./src/images/bgMap.png ***!
-  \******************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"0058743eb4a5e57d5d99.png\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bgMap.png?");
-
-/***/ }),
-
 /***/ "./src/fonts/Fry's Baskerville Regular.otf":
 /*!*************************************************!*\
   !*** ./src/fonts/Fry's Baskerville Regular.otf ***!
@@ -277,6 +237,46 @@ eval("module.exports = __webpack_require__.p + \"87691c38c21c026c5a9c.otf\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"2de04709e76a8c3a838d.ttf\";\n\n//# sourceURL=webpack://restaurantpage/./src/fonts/JuliusSansOne-Regular.ttf?");
+
+/***/ }),
+
+/***/ "./src/images/bg1.jpg":
+/*!****************************!*\
+  !*** ./src/images/bg1.jpg ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"3ca5d843c172842bae12.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg1.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/bg2.jpg":
+/*!****************************!*\
+  !*** ./src/images/bg2.jpg ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"4c87c2cd61c07207315e.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg2.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/bg3.jpg":
+/*!****************************!*\
+  !*** ./src/images/bg3.jpg ***!
+  \****************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"3e64a531558a05efab2f.jpg\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bg3.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/bgMap.png":
+/*!******************************!*\
+  !*** ./src/images/bgMap.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"de9a4288b7f6874d7543.png\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/bgMap.png?");
 
 /***/ })
 
