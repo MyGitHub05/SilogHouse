@@ -1,7 +1,7 @@
 import { Image, sampleTapsilog, product } from "./utilities/image.js";
-import Silogone from "./images/silog1.png";
-import Arrow from "./images/arrow.png";
-import Silogtwo from "./images/silog2.png";
+import Silogone from "images/silog1.png";
+import Arrow from "images/arrow.png";
+import Silogtwo from "images/silog2.png";
 
 import "./styles/style.css";
 import "./styles/header.css";
