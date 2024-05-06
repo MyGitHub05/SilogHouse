@@ -1,3 +1,6 @@
+import one from "../images/one.png";
+import two from "../images/two.png";
+import three from "../images/three.png";
 export function Image(url) {
   const image = document.createElement("img");
   image.src = url;
@@ -7,21 +10,21 @@ export function Image(url) {
 
 export const sampleTapsilog = [
   {
-    image: "/src/images/one.png",
+    image: one,
     name: "Hotsilog",
     alt: "hotsilog",
     about:
       "Hotsilog is a meal composed of hotdogs, garlic fried rice, and fried egg.",
   },
   {
-    image: "/src/images/two.png",
+    image: two,
     name: "Chicsilog",
     alt: "chicsilog",
     about:
       "chicsilog is a meal composed of fried chicken, fried eggs, and fried rice.",
   },
   {
-    image: "/src/images/three.png",
+    image: three,
     name: "Porksilog",
     alt: "porksilog",
     about:

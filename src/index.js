@@ -1,4 +1,8 @@
 import { Image, sampleTapsilog, product } from "./utilities/image.js";
+import Silogone from "./images/silog1.png";
+import Arrow from "./images/arrow.png";
+import Silogtwo from "./images/silog2.png";
+
 import "./styles/style.css";
 import "./styles/header.css";
 import "./styles/about.css";
@@ -36,8 +40,8 @@ function HomePage() {
   const h1 = document.createElement("h1");
   const h2 = document.createElement("h2");
   const menuBtn = document.createElement("button");
-  const tapsiPlate1 = Image("/src/images/silog1.png");
-  const arrow = Image("/src/images/arrow.png");
+  const tapsiPlate1 = Image(Silogone);
+  const arrow = Image(Arrow);
 
   menuBtn.classList = "menuBtn";
   arrow.classList = "arrow";
@@ -89,7 +93,7 @@ function menu() {
   const title = document.createElement("h1");
   const menuSign = document.createElement("p");
   const prices = document.createElement("div");
-  const bgSilog = Image("/src/images/silog2.png");
+  const bgSilog = Image(Silogtwo);
   bgSilog.classList = "bgSilog";
   title.classList = "title";
   menuSign.classList = "menuSign";

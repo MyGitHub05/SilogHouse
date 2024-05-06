@@ -12,7 +12,7 @@
 }
 body.home {
   background-image: linear-gradient(rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.691)),
-    url(/src/images/bg1.jpg);
+    url("/src/images/bg1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -20,7 +20,7 @@ body.home {
 
 body.about {
   background-image: linear-gradient(rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.691)),
-    url(/src/images/bg3.jpg);
+    url("/src/images/bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -28,7 +28,7 @@ body.about {
 
 body.menu {
   background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url(/src/images/bg2.jpg);
+    url("/src/images/bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -36,7 +36,7 @@ body.menu {
 
 body.contact {
   background-image: linear-gradient(rgba(0, 0, 0, 0.829), rgba(0, 0, 0, 0.691)),
-    url(/src/images/bgMap.png);
+    url("/src/images/bgMap.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
